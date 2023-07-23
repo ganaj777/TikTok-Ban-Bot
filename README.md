@@ -21,5 +21,5 @@ This tool is strongly recommended for educational purpose.
 
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/Amphebian07/Instagram-Report-Bot"><img alt="Cute Count" 
-src="https://count.getloli.com/get/@Insta-Report-Bot?theme=rule34" /></a>
+<a href="https://github.com/Amphebian07/TikTok-Ban-Bot"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@TikTok-Ban-Bot?theme=rule34" /></a>
